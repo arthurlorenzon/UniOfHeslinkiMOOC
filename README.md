@@ -15,7 +15,7 @@ Os exercícios abordam os seguintes tópicos:
 - part01: Conceitos básicos
 - part02: Estruturas de repetição e métodos
 - part03: Listas e arrays
-- part04: Programação orientada a objetos
+- part04: Introdução a programação orientada a objetos
 
 ### Sobre o curso
 
