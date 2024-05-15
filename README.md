@@ -17,6 +17,7 @@ Os exercícios abordam os seguintes tópicos:
 - part03: Listas e arrays
 - part04: Introdução a programação orientada a objetos
 - part05: Programação orientada a objetos
+- part06: Objetos que consistem em objetos, interface de usuário e introdução a testes
 
 ### Sobre o curso
 
